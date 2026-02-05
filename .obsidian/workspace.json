@@ -11,10 +11,14 @@
             "id": "ab22267dc6c993e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Approvals/Approval_LinkedIn_Post.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Approval_LinkedIn_Post"
             }
           }
         ]
@@ -176,32 +180,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e112b0ab215164c",
+  "active": "ab22267dc6c993e0",
   "lastOpenFiles": [
-    "main.py",
+    "README.md",
+    "README.md.tmp.2328.1770295302903",
+    "gold_tier.py",
+    "requirements.txt.tmp.2328.1770292767721",
+    "requirements.txt.tmp.2328.1770292710004",
+    "Scripts/run_weekly_audit.py",
+    "Scripts/run_weekly_audit.py.tmp.2328.1770292693111",
+    "Business_Goals.md",
+    "ARCHITECTURE.md",
+    "Skills/ralph_wiggum_loop.py",
+    "Skills/audit_logger.py",
+    "Skills/error_recovery.py",
+    "Skills/business_auditor.py",
     "Approvals/Approval_LinkedIn_Post.md",
-    "Approvals/Approval_LinkedIn_Post.md.tmp.1386.1770218704365",
-    "Dashboard.md.tmp.1386.1770218384705",
     "Plans/New_Lead_Comment_Plan.md",
     "Needs_Action/New_Lead_Comment.md",
     "Plans/New_Connection_Request_Plan.md",
     "Needs_Action/New_Connection_Request.md",
-    "Dashboard.md.tmp.1386.1770218296046",
     "Inbox/New_Lead_Comment.md",
     "Inbox/New_Connection_Request.md",
-    "Scripts/__pycache__/linkedin_post.cpython-312.pyc",
-    "Scripts/__pycache__",
     "Plans/New_Lead_Email_Plan.md",
     "Needs_Action/New_Lead_Email.md",
     "Plans/Client_Invoice_Email_Plan.md",
     "Needs_Action/Client_Invoice_Email.md",
     "Inbox/New_Lead_Email.md",
     "Inbox/Client_Invoice_Email.md",
-    "Scripts/mcp_server.py",
-    "Scripts/linkedin_post.py",
-    "Scripts/gmail_watcher.py",
-    "Approvals",
-    "Plans",
     "Dashboard.md",
     "Needs_Action/Task001.md",
     "Inbox/Task001.md",
